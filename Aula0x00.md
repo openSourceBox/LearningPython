@@ -64,7 +64,7 @@ Alguns exemplos de números representados como floats são 0.5 e -7.8237591.
 Eles podem ser criados diretamente inserindo um número com um ponto decimal ou usando operações como divisão em inteiros.
 
 ```Python
-print( 3/4  # => 0.75
+print( 3/4 ) # => 0.75
 print( 0.42 )
 ```
 
